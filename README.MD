@@ -1,12 +1,10 @@
-# Nome do produto
+<h1 align="center">
+    Agendamentos de profissionais
+</h1>
 
-📜 Descrição curta sobre o que seu projeto faz.
+## :bookmark: Sobre
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-💡 No dashboard do funcionário é possível fazer a listagem e criação de agendamentos.
+No dashboard do funcionário é possível fazer a listagem e criação de agendamentos.
 
 Na listagem é possível filtrar por datas. Os dias tem variações de cores de acordo
 com o número de agendamentos do dia.
@@ -17,24 +15,26 @@ Podendo ser, cinza (não tem agendamento), laranja claro (tem um ou mais agendam
 
 Na versão para o cliente, é possível a criação do agendamento, listagem dos agendamentos e atualização do perfil.
 
-![](gif.gif)
+<a id="tecnologias-utilizadas"></a>
 
-```
+## :rocket: Tecnologias Utilizadas
 
-## 🗃 Histórico de lançamentos
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1
-    * Trabalho em andamento
+- [React Native](https://reactnative.dev/)
+  - [React Native Communications](react-native-communications)
+- [React Navigation v5](https://reactnavigation.org/)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
 
+## :iphone: Telas
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
-```
+<h4 align="center">
+    <img alt="Home" title="#home" width="250px" src="gif.gif">
+</h4>
+
+---
+
+<h4 align="center">
+    Feito com 💜 by Deusdete Filho</a>
+</h4>
